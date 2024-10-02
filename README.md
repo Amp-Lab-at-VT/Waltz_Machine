@@ -3,7 +3,7 @@ Henry Forsyth, Computer Engineering Student (2024)
 rhforsythjr@vt.edu
 
 ## Mentor
-MENTOR NAME HERE
+Eddie Pritchard
 
 ## Current Status
 IN PROGRESS
